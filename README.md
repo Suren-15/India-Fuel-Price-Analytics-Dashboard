@@ -18,4 +18,4 @@ This Power BI dashboard analyzes petrol and diesel prices across Indian cities a
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot,jpeg)
+![Dashboard](Dashboard_Screenshot.png)
